@@ -1,0 +1,12 @@
+[
+    {
+        "amount": 34.0,
+        "category": "food",
+        "description": "lunch"
+    },
+    {
+        "amount": 43.0,
+        "category": "table",
+        "description": "room decor"
+    }
+]
